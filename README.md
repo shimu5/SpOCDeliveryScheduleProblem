@@ -28,23 +28,23 @@ Ensure you have the following installed:
    ### Roulette Wheel selection with Swap Mutation
 
    ```
-   python ga_roulette_swap.py
+      python ga_roulette_swap.py
    ```
 
    ### Elitism with Boundary Mutation
 
-  ```
-   python ga_elitism_boundary.py
-   ```
+     ```
+        python ga_elitism_boundary.py
+     ```
 
    ### Elit with Swap Mutation
 
    ```
-   python ga_elitism_swap.py
+      python ga_elitism_swap.py
    ```
 
    ## LS ON SELECTED GA with Greedy Local Search on dir Greedy: (Algorithm is incomplete) 
  
- ```
-   python  ./Greedy/Greedy_RW_Bound.py
-```
+    ```
+      python  ./Greedy/Greedy_RW_Bound.py
+   ```
