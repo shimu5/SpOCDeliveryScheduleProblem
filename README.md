@@ -7,8 +7,11 @@ Brief description of what your project does.
 ## Prerequisites
 
 Ensure you have the following installed:
-- Python (version 3.x.x)
-- pip (Python package installer) Numpy, Random, Json, os, matplotlib.pyplot
+- Python 3.8 and depends on the following libraries:
+- pip (Python package installer) Numpy, Random, Json, os, matplotlib.pyplot 
+- matplotlib >= 3.4.3
+- numpy >= 1.12.0
+
 
 ## Setup
 
@@ -16,4 +19,32 @@ Ensure you have the following installed:
 
    ```bash
    git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
-   python 
+   ```
+   ### Roulette Wheel selection with Boundary Mutation
+   ```
+   python ga_roulette_boundary.py
+   ```
+
+   ### Roulette Wheel selection with Swap Mutation
+
+   ```
+   python ga_roulette_swap.py
+   ```
+
+   ### Elitism with Boundary Mutation
+
+  ```
+   python ga_elitism_boundary.py
+   ```
+
+   ### Elit with Swap Mutation
+
+   ```
+   python ga_elitism_swap.py
+   ```
+
+   ## LS ON SELECTED GA with Greedy Local Search on dir Greedy: (Algorithm is incomplete) 
+ 
+ ```
+   python  ./Greedy/Greedy_RW_Bound.py
+```
