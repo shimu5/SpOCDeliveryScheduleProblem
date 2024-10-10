@@ -43,7 +43,7 @@ Ensure you have the following installed:
       python ga_elitism_swap.py
    ```
 
-   ## LS ON SELECTED GA with Greedy Local Search on dir Greedy: (Algorithm is incomplete) 
+   ## Local Search(LS) with Greedy LS applied on Initialize Population on dir Greedy: (Algorithm is incomplete) 
  
     ```
       python  ./Greedy/Greedy_RW_Bound.py
