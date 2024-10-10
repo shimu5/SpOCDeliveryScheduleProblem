@@ -2,7 +2,7 @@
 
 ### Thesis Topic : Advanced Optimization Techniques for a Delivery Scheduling Problem by Using Genetic and Evolutionary Algorithms
 
-Brief description of what your project does.
+Brief description of the Thesis code Implementation:
 
 ## Prerequisites
 
