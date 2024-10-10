@@ -27,9 +27,7 @@ Ensure you have the following installed:
 ## SpOC Data: 
   ``` \data\spoc\scheduling\candidates.txt  ```
   
-## *Proposed Algorithms: 
-
-2.   **Run the Code**:
+## Proposed Algorithms: 
  
    ### Roulette Wheel selection with Boundary Mutation
    ```
