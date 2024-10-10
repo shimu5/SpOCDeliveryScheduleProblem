@@ -20,6 +20,11 @@ Ensure you have the following installed:
    ```bash
    git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
    ```
+
+## Run the Code:
+
+2. **Algorithms:**:
+ 
    ### Roulette Wheel selection with Boundary Mutation
    ```
    python ga_roulette_boundary.py
