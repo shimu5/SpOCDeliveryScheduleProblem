@@ -15,7 +15,7 @@ Ensure you have the following installed:
 
 ## Setup
 
-1. **Clone the repository**:
+**Clone the repository**:
 
    ```bash
    git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
