@@ -21,37 +21,41 @@ Ensure you have the following installed:
    git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
    ```
 ## SpOC Challenge Provided Evaluated Code: 
-   ```
-    spoc_delivery_scheduling.py
+   ```bash
+   spoc_delivery_scheduling.py
    ```
 ## SpOC Data: 
-  ``` \data\spoc\scheduling\candidates.txt  ```
+  ```bash
+\data\spoc\scheduling\candidates.txt 
+  ```
   
 ## Proposed Algorithms: 
  
    ### Roulette Wheel selection with Boundary Mutation
-   ```
-   python ga_roulette_boundary.py
-   ```
+  
+   ```bash
+python ga_roulette_boundary.py
+```
 
    ### Roulette Wheel selection with Swap Mutation
 
-   ```
-      python ga_roulette_swap.py
+  ```bash
+   python ga_roulette_swap.py
    ```
 
    ### Elitism with Boundary Mutation
-
-     ```
-        python ga_elitism_boundary.py
-     ```
+   
+   ```bash
+   python ga_elitism_boundary.py
+```
 
    ### Elit with Swap Mutation
 
-   ```
-      python ga_elitism_swap.py
+   ```bash
+python ga_elitism_swap.py
    ```
 
    ## Local Search(LS) with Greedy LS applied on Initialize Population on dir Greedy: (Algorithm is incomplete) 
- 
-    ```python  ./Greedy/Greedy_RW_Bound.py```
+ ```bash
+python  ./Greedy/Greedy_RW_Bound.py
+```
