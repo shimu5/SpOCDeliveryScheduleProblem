@@ -20,10 +20,15 @@ Ensure you have the following installed:
    ```bash
    git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
    ```
-
+## SpOC Challenge Provided Evaluated Code: 
+   ```
+    spoc_delivery_scheduling.py
+   ```
+## SpOC Data: 
+  ``` \data\spoc\scheduling\candidates.txt  ```
 ## Run the Code:
 
-2. **Algorithms:**:
+2. ** Proposed Algorithms:**:
  
    ### Roulette Wheel selection with Boundary Mutation
    ```
