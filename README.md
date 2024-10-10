@@ -54,6 +54,4 @@ Ensure you have the following installed:
 
    ## Local Search(LS) with Greedy LS applied on Initialize Population on dir Greedy: (Algorithm is incomplete) 
  
-    ```
-      python  ./Greedy/Greedy_RW_Bound.py
-   ```
+    ```python  ./Greedy/Greedy_RW_Bound.py```
