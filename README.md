@@ -1,6 +1,6 @@
 # SpOC: Delivery Schedule
 
-### Thesis Topic : Advanced Optimization Techniques for a Delivery Scheduling Problem by Using Genetic and Evolutionary Algorithms
+### Advanced Optimization Techniques for a Delivery Scheduling Problem by Using Genetic and Evolutionary Algorithms
 
 Brief description of the Thesis code Implementation:
 
