@@ -18,7 +18,7 @@ Ensure you have the following installed:
 **Clone the repository**:
 
    ```bash
-   git clone [https://github.com/shimu5/SpOCDeliveryScheduleThesisCode]
+   git clone [https://github.com/shimu5/SpOCDeliveryScheduleProblem]
    ```
 ## SpOC Challenge Provided Evaluated Code: 
    ```bash
